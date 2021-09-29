@@ -1,0 +1,131 @@
+body {
+    width: auto;
+    height: 100%;
+    margin: 0;
+}
+.menu-principal {
+    width: 100%;
+    background-color: #363636;
+    height: 70px;
+    float: inline-start;
+    margin: 0;
+}
+main {
+    margin: auto;
+    width: 980px;
+    position: relative;
+}
+.logo {
+    float: left;
+    padding: 10px;
+    width: 35%;
+    margin: 0;
+}
+.redes-sociais ul li {
+    margin-left: 60px;
+    display: inline-block;
+    list-style: none;
+    padding: 0%;
+}
+.redes-sociais {
+    width: 60%;
+    float: right;
+    }
+button.slick-prev {
+font-size: 0px;
+border: none;
+width: 0px;
+height: 0px;
+background-color: transparent;
+background-image: url('../img/seta\ para\ esquerda.png');
+top: 45%;
+position: absolute;
+z-index: 0;
+left: 0;
+}
+button.slick-next {
+    font-size: 0px;
+    border: none;
+    width: 0px;
+    height: 0px;
+    background-color: transparent;
+    background-image: url('../img/seta\ para\ direita.png');
+    top: 45%;
+    position: absolute;
+    z-index: 0;
+    right: 0;
+    }
+.slider-principal {
+    width: 100%;
+    margin: 0;
+}
+ul.slick-dots {
+    font-size: 0px;
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    top: 45%;
+    z-index: 0;
+    width: 1px;
+    right: 50%;
+}
+ul.slick-dots li button {
+    font-size: 0px;
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    top: 45%;
+    z-index: 0;
+    width: 1px;
+    right: 50%;
+}
+.slick-initialized {
+        overflow: hidden;
+}
+.titul-o{
+    float: left;
+    padding: 2%;
+}
+.sobre-2{
+    float: left;
+    padding: 2%;
+}
+.titulo {
+    float: left;
+    padding: 2%;
+}
+.serviços-1 {
+    display: flex;
+    float: left;
+    align-items: center;
+    padding: 2%;
+}
+.serviços-2 {
+    display: flex;
+    float: left;
+    align-items: center;
+    padding: 2%;
+}
+.serviços-3 {
+    display: flex;
+    float: left;
+    align-items: center;
+    padding: 2%;
+}
+.serviços-4 {
+    display: flex;
+    float: left;
+    align-items: center;
+    padding: 2%;
+}
+.contato-1 {
+    float: left;
+    text-decoration: none;
+    height: 50px;
+}
+.contato-2 {
+    padding: 2%;
+}
+.contato-3 {
+    padding: 1%;
+}
