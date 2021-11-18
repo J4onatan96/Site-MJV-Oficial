@@ -58,6 +58,7 @@ button.slick-next {
 .slider-principal {
     width: 100%;
     margin: 0;
+    float: inline-start;
 }
 ul.slick-dots {
     font-size: 0px;
