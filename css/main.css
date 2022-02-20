@@ -104,6 +104,7 @@ ul.slick-dots li button {
 }
 .serviços-1 {
     float: left;
+    display: flex;
     align-items: center;
     padding: 2%;
     font-size: 28px;
@@ -111,6 +112,7 @@ ul.slick-dots li button {
 }
 .serviços-2 {
     float: left;
+    display: flex;
     align-items: center;
     padding: 2%;
     font-size: 28px;
@@ -118,6 +120,7 @@ ul.slick-dots li button {
 }
 .serviços-3 {
     float: left;
+    display: flex;
     align-items: center;
     padding: 2%;
     font-size: 28px;
@@ -125,6 +128,7 @@ ul.slick-dots li button {
 }
 .serviços-4 {
     float: left;
+    display: flex;
     align-items: center;
     padding: 2%;
     font-size: 28px;
