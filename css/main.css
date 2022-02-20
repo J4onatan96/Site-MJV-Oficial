@@ -96,7 +96,6 @@ ul.slick-dots li button {
 .sobre-2{
     float: left;
     padding: 2%;
-    text-align: justify;
     font-size: 18px;
 }
 .titulo {
@@ -110,7 +109,6 @@ ul.slick-dots li button {
     align-items: center;
     padding: 2%;
     font-size: 28px;
-    text-align: justify;
     font-style: italic;
 }
 .serviços-2 {
@@ -119,7 +117,6 @@ ul.slick-dots li button {
     align-items: center;
     padding: 2%;
     font-size: 28px;
-    text-align: justify;
     font-style: italic;
 }
 .serviços-3 {
@@ -128,7 +125,6 @@ ul.slick-dots li button {
     align-items: center;
     padding: 2%;
     font-size: 28px;
-    text-align: justify;
     font-style: italic;
 }
 .serviços-4 {
@@ -137,7 +133,6 @@ ul.slick-dots li button {
     align-items: center;
     padding: 2%;
     font-size: 28px;
-    text-align: justify;
     font-style: italic;
 }
 .contato-1 {
