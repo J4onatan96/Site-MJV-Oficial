@@ -104,32 +104,32 @@ ul.slick-dots li button {
 }
 .serviços-1 {
     float: left;
-    display: flex;
     align-items: center;
+    text-align: justify;
     padding: 2%;
     font-size: 28px;
     font-style: italic;
 }
 .serviços-2 {
     float: left;
-    display: flex;
     align-items: center;
+    text-align: justify;
     padding: 2%;
     font-size: 28px;
     font-style: italic;
 }
 .serviços-3 {
     float: left;
-    display: flex;
     align-items: center;
+    text-align: justify;
     padding: 2%;
     font-size: 28px;
     font-style: italic;
 }
 .serviços-4 {
     float: left;
-    display: flex;
     align-items: center;
+    text-align: justify;
     padding: 2%;
     font-size: 28px;
     font-style: italic;
@@ -138,5 +138,7 @@ ul.slick-dots li button {
     float: left;
     text-decoration: none;
     padding-left: 20px;
-    height: 50px;
+    padding: 2%;
+    height: 90px;
+    font-size: 20px;
 }
