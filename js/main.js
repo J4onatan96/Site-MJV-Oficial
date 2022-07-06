@@ -4,5 +4,5 @@ $('.slider-principal').slick({
     speed: 300,
     slidesToShow: 1,
     autoplay: true,
-    autoplaySpeed: 1000
+    autoplaySpeed: 1800
 });
